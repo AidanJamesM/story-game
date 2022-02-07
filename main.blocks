@@ -1,0 +1,35 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable type="KIND_SpriteKind" id=")%vDmWC,v6gS(mBLJ;4{">Player</variable><variable type="KIND_SpriteKind" id="=RRTF2Vk4`MfvpZpIVC}">Projectile</variable><variable type="KIND_SpriteKind" id="-z0A(2a^4|0[)#v?3QJC">Food</variable><variable type="KIND_SpriteKind" id="vRob$+ogxg!90Y]uhKxj">Enemy</variable><variable id="wO)S6ZZF?n;$HHWqsN2D">mySprite</variable><variable id="G={G;VI2K2X2{W{-JUTU">mySprite2</variable><variable id="o(b@e=Df78@0)z#Bias0">Smiley</variable><variable id="fprVla3Y#sKNySb/(}wJ">Crowngurl</variable></variables><block type="pxt-on-start" id="4*@E9Zyq%r*[WCoI^f`+" x="0" y="0"/><block type="spritesetpos" id=")s^7786vh7R.sLIz@n+g" disabled="true" x="205" y="0"><value name="sprite"><block type="variables_get" id="_ly+A=RHPntc%@6j1NZT" disabled="true"><field name="VAR" id="o(b@e=Df78@0)z#Bias0">Smiley</field></block></value><value name="x"><shadow type="positionPicker" id="24F@3nWOGcq$e`1dF|qa" disabled="true"><field name="index">57</field></shadow></value><value name="y"><shadow type="positionPicker" id="c)s(I`1Jk~7?pm]Hwz9h" disabled="true"><field name="index">56</field></shadow></value></block><block type="spritesetpos" id="ayiD:c1bas`F0;JOFdos" disabled="true" x="656" y="0"><value name="sprite"><block type="variables_get" id="PG,R(03a4F]zjlQ*|ttD" disabled="true"><field name="VAR" id="fprVla3Y#sKNySb/(}wJ">Crowngurl</field></block></value><value name="x"><shadow type="positionPicker" id="Km5DmwOn@MA[#[2BoT#+" disabled="true"><field name="index">113</field></shadow></value><value name="y"><shadow type="positionPicker" id="0YQ%Ko7jD:n`L-:P/@,0" disabled="true"><field name="index">55</field></shadow></value></block><block type="variables_set" id="Vs4zt|Om{pdS_J!eMp4p" disabled="true" x="0" y="149"><field name="VAR" id="o(b@e=Df78@0)z#Bias0">Smiley</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="[/_n1e_#gdwMgmnWXJay" disabled="true"><value name="img"><shadow type="screen_image_picker" id="s[`!B=s!/HC7XBdJ]6F~" disabled="true"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"s[`!B=s!/HC7XBdJ]6F~"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="R,H#pUEW@juUVDHjymT`" disabled="true"><field name="MEMBER">Player</field></shadow></value></block></value></block><block type="variables_set" id="K0;$YIC`1c/N*gqtQ,Ph" disabled="true" x="570" y="149"><field name="VAR" id="fprVla3Y#sKNySb/(}wJ">Crowngurl</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="-zx2H@z2SFO)p4uwzHOu" disabled="true"><value name="img"><shadow type="screen_image_picker" id="P!:+Jb0]Hn*0msxo~6}R" disabled="true"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"P!:+Jb0]Hn*0msxo~6}R"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="0Aj4N0bmKiS840)(bQJv" disabled="true"><field name="MEMBER">Player</field></shadow></value></block></value></block></xml>
